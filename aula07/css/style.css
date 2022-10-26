@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400;500&display=swap');
+
+.conteudo{
+    background-color: rgb(170, 170, 170);
+    padding: 10px;
+    border-radius: 14px;
+}
+
+.cabecalho{
+    text-align: center;
+    font-family: 'Cinzel', serif;
+    font-size: 48px;
+    background-color: gray;
+    padding: 20px;
+    border-radius: 14px;
+}
+
+.botao{
+    font-size: 26px;
+}
+
+
+#secao1 img{
+    float: left;
+}
+
+#secao3 img{
+    float: left;
+}
+
+p{
+    text-align: center;
+    font-family: 'Cinzel', serif;
+    font-size: 24px;
+    padding: 10px;
+}
+
+.rodape{
+    text-align: center;
+    font-size: 12px;
+    font-family: 'Cinzel', serif;
+    padding: 4px;
+    background-color: rgb(156, 156, 156);
+    border-radius: 14px;
+}
